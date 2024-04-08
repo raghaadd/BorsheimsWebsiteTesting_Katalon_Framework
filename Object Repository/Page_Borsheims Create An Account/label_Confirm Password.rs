@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Confirm Password</name>
+   <tag></tag>
+   <elementGuidId>198e3de9-0fc6-4f3a-a462-b3a9be066912</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='js-acad-form']/div/div/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Confirm Password:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d9a66248-214c-413a-8662-88311024bb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>l-Customer_VerifyPassword</value>
+      <webElementGuid>e6dcaae0-ac90-46fc-a1f4-e24030e10e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>6274d4be-97c0-4103-907f-9a0a090c8292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm Password:</value>
+      <webElementGuid>2f46b169-c30e-4340-9a73-d6c2b83f44d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-acad-form&quot;)/div[@class=&quot;row customer-fields&quot;]/div[@class=&quot;column whole medium-two-fifths medium-offset-one-tenth login-details&quot;]/div[@class=&quot;form_row&quot;]/div[@class=&quot;floating-placeholder&quot;]/label[@class=&quot;required&quot;]</value>
+      <webElementGuid>7d05db25-3a7a-49c1-9510-29d9fb52ad84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='js-acad-form']/div/div/div[3]/div/label</value>
+      <webElementGuid>714fa50d-f8f5-4038-8489-7f9ce9afb85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/following::label[1]</value>
+      <webElementGuid>142b7e38-e003-4f0d-8109-9f590be61e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address:'])[1]/following::label[2]</value>
+      <webElementGuid>d8f66cd3-f53b-45b9-8cf4-0422ede172a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship To:'])[1]/preceding::label[1]</value>
+      <webElementGuid>7a8854ba-07ac-4f9b-8cf2-ecc284867418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='same as billing'])[1]/preceding::label[1]</value>
+      <webElementGuid>696bb3dc-6a38-43ed-81c4-2a5c13799fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm Password:']/parent::*</value>
+      <webElementGuid>4a6b1f7e-274a-402e-8ded-b35bb019bdbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>ba59d1c9-dde0-4cde-bad1-61b24f3c4c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Confirm Password:' or . = 'Confirm Password:')]</value>
+      <webElementGuid>7a5dc8b0-76d4-4ffd-9c99-19e463ae7e30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

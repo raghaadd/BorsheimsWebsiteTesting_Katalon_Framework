@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ZipPostal Code</name>
+   <tag></tag>
+   <elementGuidId>28851ae6-b77e-4e68-85e6-7c9647819d59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shipping_fields']/div[12]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#shipping_fields >> internal:text=&quot;Zip/Postal Code:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cd6a31e1-94c7-463f-8c15-3b7c187da130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>medium required</value>
+      <webElementGuid>3946241d-39b6-4990-b0bc-9ced8e7b08a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>l-Customer_ShipZip</value>
+      <webElementGuid>6e7e4065-5935-445f-be12-1d7ffd94c6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zip/Postal Code:</value>
+      <webElementGuid>dea1546d-661a-4bfa-875f-46160ecfc1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipping_fields&quot;)/div[@class=&quot;form_row&quot;]/div[@class=&quot;floating-placeholder&quot;]/label[@class=&quot;medium required&quot;]</value>
+      <webElementGuid>9347ac47-144a-4da1-9470-cfec472f1168</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipping_fields']/div[12]/div/label</value>
+      <webElementGuid>4cb87543-798f-4d25-8400-5166662365bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other State/Province:'])[1]/following::label[1]</value>
+      <webElementGuid>c60a9b3b-c221-4c38-8e4a-2c6177bff1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State/Province:'])[1]/following::label[2]</value>
+      <webElementGuid>4903c497-6231-46e8-9202-7ee53d1af1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country:'])[1]/preceding::label[1]</value>
+      <webElementGuid>c5f38526-55bf-4b19-978e-af8f69b6d137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill To:'])[1]/preceding::label[2]</value>
+      <webElementGuid>060c5d49-2908-40c8-b671-a99fdaf77965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zip/Postal Code:']/parent::*</value>
+      <webElementGuid>ebdc7dcf-baf1-4481-8788-70abbda8e4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/label</value>
+      <webElementGuid>8ee0528a-db22-4f3d-9b20-a32b52209918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Zip/Postal Code:' or . = 'Zip/Postal Code:')]</value>
+      <webElementGuid>e0721387-705c-4573-b823-7e15677e3eb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

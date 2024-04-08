@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign InRegister</name>
+   <tag></tag>
+   <elementGuidId>e59eb69e-6c0e-4657-9db4-4a24287c9423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='loginMyAccount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginMyAccount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Sign In/Register&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>454f86ce-c123-437f-ae7f-d1608dc76e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginMyAccount</value>
+      <webElementGuid>661b3bba-1892-4e87-91ab-bccb6847368b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/UserLogonView?storeId=10052&amp;catalogId=10551&amp;langId=-1</value>
+      <webElementGuid>be94da00-ccfd-4828-9284-b188fd9e9d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sign In/Register</value>
+      <webElementGuid>7fa6f6d4-b737-4514-8468-dd6f21068de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Sign In/Register
+			</value>
+      <webElementGuid>2785f3e8-59e1-4e21-aa60-655ccc9c99dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginMyAccount&quot;)</value>
+      <webElementGuid>5d4fb6c9-dc34-4eb9-872e-67562e5e248c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='loginMyAccount']</value>
+      <webElementGuid>6058cc1d-4441-4f4e-a4ac-3ae7cafd8607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/a</value>
+      <webElementGuid>4accb26f-4429-4e94-8a18-a38feeb99609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[1]</value>
+      <webElementGuid>9c04a5aa-c1b3-480c-a1fd-0ff78274575a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Store'])[1]/following::a[2]</value>
+      <webElementGuid>9a4d544d-2f5a-4812-83ff-ba105c515a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List'])[1]/preceding::a[1]</value>
+      <webElementGuid>d11af63d-883a-4381-b3e2-838cef05f024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/UserLogonView?storeId=10052&amp;catalogId=10551&amp;langId=-1')])[2]</value>
+      <webElementGuid>45a8e25d-af64-40df-8f58-74c934e049e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>455484c5-8b3e-4d67-baa4-105f6f5d1425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'loginMyAccount' and @href = '/UserLogonView?storeId=10052&amp;catalogId=10551&amp;langId=-1' and @title = 'Sign In/Register' and (text() = '
+				Sign In/Register
+			' or . = '
+				Sign In/Register
+			')]</value>
+      <webElementGuid>65c63f6d-38fe-46d0-b09e-a81f083c805a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

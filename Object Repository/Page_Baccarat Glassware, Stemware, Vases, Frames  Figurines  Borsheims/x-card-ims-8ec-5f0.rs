@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x-card-ims-8ec-5f0</name>
+   <tag></tag>
+   <elementGuidId>00701eaf-cc92-44ab-b6a3-f314b50de3b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.is--category > div.search-container > main > div.results > x-card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>x-card >> internal:has-text=&quot;Baccarat Vega Flute, Set of 2 $490.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>x-card</value>
+      <webElementGuid>78a265b6-d0d8-4829-9fe2-1bcb3043713d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;container is--category&quot;]/div[@class=&quot;search-container&quot;]/main[1]/div[@class=&quot;results&quot;]/x-card[1]</value>
+      <webElementGuid>4a290cea-f595-4a99-b459-029fff396677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Baccarat Glassware, Stemware, Vases, Frames  Figurines  Borsheims/x-search-app-rsheims-8ec</value>
+      <webElementGuid>89b9c849-4a7e-47a1-a0c2-d3b4306d18f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c3dde58a-6153-4e65-ad8e-5bee700b2753</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>fb827d60-90fc-4be3-8bdd-92923b76b0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

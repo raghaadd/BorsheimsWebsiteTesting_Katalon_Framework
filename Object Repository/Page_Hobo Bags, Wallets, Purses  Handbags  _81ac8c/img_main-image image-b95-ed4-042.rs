@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_main-image image-b95-ed4-042</name>
+   <tag></tag>
+   <elementGuidId>b2d19d08-e451-4591-80db-62c39854b85c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=' Joni Large Shoulder Bag, Cognac image']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.image-loaded > a.top > div.image-container > img.main-image.image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Joni Large Shoulder Bag, Cognac image HOBO Joni Large Shoulder Bag, Cognac $328.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2d97299f-f6b6-46bc-8167-29f83aaba035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-image image</value>
+      <webElementGuid>8a042423-5488-4036-a939-40d9a037cc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>9f6dc932-774d-489d-8c6c-d5e648cc7cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value> Joni Large Shoulder Bag, Cognac image</value>
+      <webElementGuid>2e73a724-4792-45a0-90a7-4db185b76237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.borsheims.com/mm5/graphics/00000001/6HBAG2048A_255x255.jpg</value>
+      <webElementGuid>cd752390-3685-49a7-a612-7fa8a55317e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>4835eccb-e430-47e0-b52a-8f633db97709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>5b0d7914-0aa7-45e1-99df-0b5b2fa1b0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;container image-loaded&quot;]/a[@class=&quot;top&quot;]/div[@class=&quot;image-container&quot;]/img[@class=&quot;main-image image&quot;]</value>
+      <webElementGuid>e67f1f66-de45-4e3f-92f3-4f46f494d267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hobo Bags, Wallets, Purses  Handbags  _81ac8c/x-product-card_HOBO Sheila Crossbody, Light Grey-ims-b95-60f</value>
+      <webElementGuid>7c10fdc3-91e0-4284-821e-df19cca9c9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>78f57cdd-2729-4cea-a384-15916d1d4685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=' Joni Large Shoulder Bag, Cognac image']</value>
+      <webElementGuid>b66872da-9720-4eda-a8db-2e081060510c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = ' Joni Large Shoulder Bag, Cognac image' and @src = 'https://www.borsheims.com/mm5/graphics/00000001/6HBAG2048A_255x255.jpg']</value>
+      <webElementGuid>589f3317-b838-4ee4-8352-a2160fd043c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

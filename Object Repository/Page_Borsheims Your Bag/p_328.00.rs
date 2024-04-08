@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_328.00</name>
+   <tag></tag>
+   <elementGuidId>37673811-1c24-4de3-9dd0-7d8a54edbf46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='js-main-content']/div/div/div[2]/div/div[2]/div[3]/div/div[2]/div[5]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column.hide.large-show.large-one-eighth.align-right.lineitem-has-price.bold > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#js-main-content >> internal:text=&quot;$328.00&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9be4f58a-e471-41aa-8016-b4839802afc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$328.00</value>
+      <webElementGuid>6fefd693-44fc-4a24-85d0-7ef8173fe4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-main-content&quot;)/div[@class=&quot;wrap-1600&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column-right float-right column whole push-none large-three-fourths large-push-one-fourth large-nrp&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;row basket-contents u-bg-secondary-white_1 wrap-1600&quot;]/div[@class=&quot;bask--items-cart&quot;]/div[@class=&quot;column whole x-large-seven-tenths cart-contents bask--items&quot;]/div[@class=&quot;flex rigid row ai-center basket-product-row u-border-secondary-grey_2&quot;]/div[@class=&quot;column hide large-show large-one-eighth align-right lineitem-has-price bold&quot;]/p[1]</value>
+      <webElementGuid>5fe60e16-afae-4662-9178-3f4b9a535f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='js-main-content']/div/div/div[2]/div/div[2]/div[3]/div/div[2]/div[5]/p</value>
+      <webElementGuid>51391443-9d30-4d18-b763-c3464692f3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::p[1]</value>
+      <webElementGuid>350fcbd0-601b-46b4-97a0-2bddf87e2ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[1]/preceding::p[2]</value>
+      <webElementGuid>6b5ad748-affe-4534-a5ac-f3d6779088b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::p[2]</value>
+      <webElementGuid>66f3787a-46b2-4796-b441-1e8e78638cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p</value>
+      <webElementGuid>a8578be3-1fea-4f2b-8983-aa325e94dd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$328.00' or . = '$328.00')]</value>
+      <webElementGuid>e9052d7c-f65f-4d4e-b1e7-41396d5d540b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

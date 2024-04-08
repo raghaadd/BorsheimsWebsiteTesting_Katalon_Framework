@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_main-image image-b95-60f-5b8</name>
+   <tag></tag>
+   <elementGuidId>103d032f-7e86-4244-a9bd-9652121f43da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=' Sheila Crossbody, Light Grey image']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.image-loaded > a.top > div.image-container > img.main-image.image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sheila Crossbody, Light Grey image HOBO Sheila Crossbody, Light Grey $278.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3d5bf2e5-3c40-4e01-887f-344fd49959c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-image image</value>
+      <webElementGuid>31fc8318-4e39-406b-b65a-220476fd0db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>269a3701-bde0-4446-a2b5-ce9fc6e0e598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value> Sheila Crossbody, Light Grey image</value>
+      <webElementGuid>e98399f7-4d75-4b9f-89db-a311e0998ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.borsheims.com/mm5/graphics/00000001/6HBAG2435A_255x255.jpg</value>
+      <webElementGuid>5c0308e4-dce7-46dd-bef2-3cc84b6df448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>a119159b-f718-480d-bff4-290a9eaabd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>4cdf636b-5e9d-448e-8da1-8984cc42db2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;container image-loaded&quot;]/a[@class=&quot;top&quot;]/div[@class=&quot;image-container&quot;]/img[@class=&quot;main-image image&quot;]</value>
+      <webElementGuid>b203bf41-031a-48ca-8e83-ae249144bfee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hobo Bags, Wallets, Purses  Handbags  _81ac8c/x-product-card_HOBO Sheila Crossbody, Light Grey-ims-b95-60f</value>
+      <webElementGuid>f1e371bb-2236-4651-ad14-818f21d9188a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1b5b5c9-23af-40a1-a931-d70c16540854</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=' Sheila Crossbody, Light Grey image']</value>
+      <webElementGuid>9d6f2ffe-5cc1-49bd-8048-c479d2a2cbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = ' Sheila Crossbody, Light Grey image' and @src = 'https://www.borsheims.com/mm5/graphics/00000001/6HBAG2435A_255x255.jpg']</value>
+      <webElementGuid>f8722327-7f51-47a1-aee9-dc1948bd6581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

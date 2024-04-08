@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account</name>
+   <tag></tag>
+   <elementGuidId>d08f02bc-de7d-4570-8627-1369bffaf045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-site-wrapper']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Account&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8f613dc-d68e-40d0-8ea2-11f9ef6903bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-cta-style-extra-small customer-links uppercase hide large-show h-flex-nogrow</value>
+      <webElementGuid>3b6b8e3c-98a5-4c2b-8ebd-469c5e46e62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Account  </value>
+      <webElementGuid>cdd280d1-54a8-48d2-9e16-865938f30887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-site-wrapper&quot;)/div[@class=&quot;pre-header u-bg-primary-main_cta white align-center&quot;]/div[@class=&quot;wrap-1920 h-flex h-flex-ai-center&quot;]/div[@class=&quot;c-cta-style-extra-small customer-links uppercase hide large-show h-flex-nogrow&quot;]</value>
+      <webElementGuid>f5538c4f-802f-4639-bc68-271e17745e52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-site-wrapper']/div/div/div[3]</value>
+      <webElementGuid>184ba701-b298-417c-a389-1c178edf60b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DETAILS'])[1]/following::div[1]</value>
+      <webElementGuid>54a7bb61-10e4-4460-8411-2ae9f59ec824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enjoy Complimentary Shipping'])[1]/following::div[1]</value>
+      <webElementGuid>5c950a9b-4e67-4627-b06d-4382288325cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jewelry'])[1]/preceding::div[10]</value>
+      <webElementGuid>265c5738-ac56-4d86-adfd-5adae97fe6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>1cfac5fd-a08e-437f-82d6-b0ab818a5502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Account  ' or . = '  Account  ')]</value>
+      <webElementGuid>b8474fda-3af2-4f2f-9078-53e315364d1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

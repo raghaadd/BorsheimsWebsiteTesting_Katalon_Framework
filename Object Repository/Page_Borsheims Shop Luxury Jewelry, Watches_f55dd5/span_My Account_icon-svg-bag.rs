@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Account_icon-svg-bag</name>
+   <tag></tag>
+   <elementGuidId>c0e5e3cd-acb0-44aa-a7ac-a8c5ac98488d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='js-mini-basket']/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-svg-bag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>066694d4-fb69-48fd-a7b3-1b4c024d0071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-svg-bag</value>
+      <webElementGuid>37de0490-a18a-46ec-b119-3fa4ccb28913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-mini-basket&quot;)/span[@class=&quot;mini-basket-inner&quot;]/span[@class=&quot;mini-basket-text large-inline-block hide&quot;]/span[@class=&quot;icon-svg-bag&quot;]</value>
+      <webElementGuid>876c64bf-14e5-4c73-a754-474656329c59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='js-mini-basket']/span/span/span</value>
+      <webElementGuid>a30e297a-eaeb-420b-8852-28e471ccacd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>f41040f5-5bc2-4bcc-bf7f-75f0e8d7d468</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

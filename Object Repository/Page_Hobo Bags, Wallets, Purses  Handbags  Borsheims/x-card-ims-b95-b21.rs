@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x-card-ims-b95-b21</name>
+   <tag></tag>
+   <elementGuidId>bcc9b8f0-4f8f-4c8a-88b1-61780a50c560</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.is--category > div.search-container > main > div.results > x-card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>x-card >> internal:has-text=&quot;HOBO Sheila Crossbody, Light Grey $278.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>x-card</value>
+      <webElementGuid>cbc7bb40-f30e-4575-b04d-6cacf7722799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;container is--category&quot;]/div[@class=&quot;search-container&quot;]/main[1]/div[@class=&quot;results&quot;]/x-card[1]</value>
+      <webElementGuid>8db66c8b-0458-46fc-8567-fdcd5a7cbcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hobo Bags, Wallets, Purses  Handbags  Borsheims/x-search-app-rsheims-b95</value>
+      <webElementGuid>54adea51-47be-42d9-aa47-262cb91999b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b00d71bb-0974-4e3e-bf16-f3300fa9bf69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>34ccef53-6007-47ed-8233-37a19309667b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

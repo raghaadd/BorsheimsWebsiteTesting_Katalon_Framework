@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hobo International</name>
+   <tag></tag>
+   <elementGuidId>9a58cea7-3bc5-4387-a728-04a1ef09b955</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='js-category-header-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#js-category-header-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Hobo International&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d3820f2f-006c-4294-a3a9-7427b07ca8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>js-category-header-title</value>
+      <webElementGuid>0fadd6b0-5299-4554-afe9-c11623c8e6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>category-header--title u-font-primary bold align-left</value>
+      <webElementGuid>8c1b69fd-3d06-4913-bfbf-e99886492460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hobo International</value>
+      <webElementGuid>73a1e3ed-00e8-428e-9134-6c6c3b98f1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-category-header-title&quot;)</value>
+      <webElementGuid>2dac2ea2-0587-4cef-9521-724c71dd3659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='js-category-header-title']</value>
+      <webElementGuid>2c8e44e6-1f6e-4593-88d8-93316e7d9c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='category_header']/div/div/div/div/div[2]/h1</value>
+      <webElementGuid>85bb05fe-5a1f-48ca-99e5-6ec38e0d1d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobo International'])[1]/following::h1[1]</value>
+      <webElementGuid>6627f199-cf47-4654-85a9-14d3e9294edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Brands'])[1]/following::h1[1]</value>
+      <webElementGuid>f33afa67-50d3-4850-ada7-1aea7f31232b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Borsheims Insider'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ea324dff-0430-4959-81f2-ee9a07fd3d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email signup'])[1]/preceding::h1[1]</value>
+      <webElementGuid>60aff483-b657-48b3-96d0-f0a8fdb55b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>3eb798fc-49fd-4429-9093-8b086a0b4e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'js-category-header-title' and (text() = 'Hobo International' or . = 'Hobo International')]</value>
+      <webElementGuid>9619b96a-0a24-45ed-a36e-e25afd417dac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

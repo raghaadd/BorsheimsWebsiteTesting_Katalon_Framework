@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_My Account_main-logo</name>
+   <tag></tag>
+   <elementGuidId>53238467-407e-4943-a2c1-f84b3c62f995</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-header-contents']/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.column.four-sixths.large-two-twelfths.x-large-two-twelfths.large-align-left.align-center > img.main-logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Borsheims: The Engagement Destination&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d9aa71ca-b2fc-40e6-bbbb-c84e03907991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-logo</value>
+      <webElementGuid>414d1566-36af-42d5-97d2-efc969a031c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>themes/borsheims/branches/production/public/images/borsheims_horizontal_logo.svg?v=2</value>
+      <webElementGuid>39e5ffea-1603-4493-bfba-56a37dcdb234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Borsheims: The Engagement Destination</value>
+      <webElementGuid>475d3740-35c0-4c4a-9a0e-791dfb572f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-header-contents&quot;)/a[@class=&quot;column four-sixths large-two-twelfths x-large-two-twelfths large-align-left align-center&quot;]/img[@class=&quot;main-logo&quot;]</value>
+      <webElementGuid>083c2db0-e164-45f7-b6f1-a9579a37a230</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-header-contents']/a/img</value>
+      <webElementGuid>355fae33-eb07-4e93-92c9-7279ebeb141c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Borsheims: The Engagement Destination'])[2]</value>
+      <webElementGuid>63bf9737-bbe1-4829-9ecc-6f1ffa9e26e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/img</value>
+      <webElementGuid>cf0094c9-ad4b-44f6-ae42-bbc610cb476c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'themes/borsheims/branches/production/public/images/borsheims_horizontal_logo.svg?v=2' and @alt = 'Borsheims: The Engagement Destination']</value>
+      <webElementGuid>b7c2f337-41f7-438e-bc74-72bf46724d29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
